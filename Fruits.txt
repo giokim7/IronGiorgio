@@ -1,0 +1,6 @@
+apple
+kiwi
+mango
+pear
+lemon
+pineapple
